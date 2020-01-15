@@ -1,0 +1,20 @@
+.jumbotron {
+    background-color: white;
+}
+
+.image-fluid {
+    max-width: 100%;
+    height: auto;
+   
+}
+
+.footer-links{
+    text-decoration: none;
+   text-align: right;
+}
+
+
+.footer-links :hover{
+    text-decoration: none;
+   
+}
